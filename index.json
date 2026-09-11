@@ -1,0 +1,59 @@
+{
+    "articles": [
+        {
+            "date": {
+                "year": "2026",
+                "month": "09",
+                "day": "10"
+            },
+            "title": "Building a Design System with CSS Variables",
+            "slug": "design-system-css-variables",
+            "tags": [
+                "css",
+                "design-systems",
+                "architecture"
+            ],
+            "thumbnail": "https://picsum.photos/seed/design-system/1200/630"
+        },
+        {
+            "date": {
+                "year": "2026",
+                "month": "08",
+                "day": "25"
+            },
+            "title": "Why I Switched from Webpack to Vite",
+            "slug": "webpack-to-vite",
+            "tags": [
+                "tooling",
+                "performance",
+                "javascript"
+            ],
+            "thumbnail": "https://picsum.photos/seed/vite/1200/630"
+        },
+        {
+            "date": {
+                "year": "2025",
+                "month": "12",
+                "day": "31"
+            },
+            "title": "A Practical Guide to Server Components",
+            "slug": "practical-server-components",
+            "tags": [
+                "react",
+                "nextjs",
+                "architecture"
+            ],
+            "thumbnail": "https://picsum.photos/seed/rsc/1200/630"
+        }
+    ],
+    "tags": [
+        "architecture",
+        "css",
+        "design-systems",
+        "javascript",
+        "nextjs",
+        "performance",
+        "react",
+        "tooling"
+    ]
+}
